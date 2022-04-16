@@ -12,7 +12,7 @@ import (
 
 	"github.com/toolkits/concurrent/semaphore"
 )
-
+//#
 //循环读取字符串，在第三秒的时候退出
 
 func main01() {
