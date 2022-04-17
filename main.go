@@ -17,6 +17,9 @@ import (
 //22222222222
 //循环读取字符串，在第三秒的时候退出
 //33333333333
+
+
+//666
 func main01() {
 	atime := time.NewTicker(3 * time.Second)
 	ch := make(chan int)
