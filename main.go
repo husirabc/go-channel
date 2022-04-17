@@ -21,6 +21,7 @@ import (
 
 //666
 //555
+//888
 func main01() {
 	atime := time.NewTicker(3 * time.Second)
 	ch := make(chan int)
